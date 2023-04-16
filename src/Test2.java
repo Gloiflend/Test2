@@ -3,6 +3,6 @@ public class Test2 {
         int i = 76;
         int j = 34;
         int result= i+j;
-        System.out.println("Summ= "+result);
+        System.out.println("Summa= "+result);
     }
 }
